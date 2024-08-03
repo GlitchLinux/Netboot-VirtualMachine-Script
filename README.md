@@ -1,6 +1,6 @@
 # Netboot-VirtualMachine-Script
 
-![2024-08-03_23-21](https://github.com/user-attachments/assets/0f199468-7b97-486c-8616-01a8d4069b6e)
+![vm](https://github.com/user-attachments/assets/e56e7c43-e405-4f58-8a51-a9104520037e)
 
 ### Netboot-VirtualMachine Script
 

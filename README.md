@@ -1,5 +1,7 @@
 # Netboot-VirtualMachine-Script
 
+![2024-08-03_23-21](https://github.com/user-attachments/assets/0f199468-7b97-486c-8616-01a8d4069b6e)
+
 ### Netboot-VirtualMachine Script
 
 The Netboot-VirtualMachine Script is an automated provisioning tool designed to streamline the process of setting up a bootable environment using Ventoy and initializing a virtual machine with QEMU. This script performs the following tasks:
